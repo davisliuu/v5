@@ -1,0 +1,1 @@
+此文件夹下libsns_imx185.so是从E:\BaiduNetdiskDownload\HI3516A SDK\Hi3516A V100R001C01SPC050\01.software\pc\PQ_TOOL\Hi3516A_PQ_V1.0.5.0\Hi3516A_PQ_V1.0.5.0\libs拷贝而来的。

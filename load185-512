@@ -1,0 +1,2 @@
+./load3519v101 -a -sensor0 imx185 -osmem 512 -total 1024 -offline
+

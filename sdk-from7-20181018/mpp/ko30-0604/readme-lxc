@@ -1,0 +1,2 @@
+load3519v101 delete insmod extdrv/hi_sensor_i2c and extdrv/hi_sil9136.ko on 20180620
+the hi3519v101_isp.ko is the latest version ,build in 5.30

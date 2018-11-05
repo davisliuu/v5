@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Partition_Info>
+<Part Sel="0" PartitionName="fastboot" FlashType="emmc" FileSystem="none" Start="0" Length="1M" SelectFile="D:\TFTP-download\2ziyanbord\mmc0test\v5\sdk\u-boot-001.bin"/>
+<Part Sel="1" PartitionName="kernel" FlashType="emmc" FileSystem="none" Start="1M" Length="10M" SelectFile="D:\TFTP-download\2ziyanbord\mmc0test\v5\sdk\uImage-mpp003_6"/>
+<Part Sel="0" PartitionName="rootfs" FlashType="emmc" FileSystem="none" Start="11M" Length="26M" SelectFile=""/>
+</Partition_Info>
